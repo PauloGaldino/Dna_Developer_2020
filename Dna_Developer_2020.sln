@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DNA_Design", "src\DNA_Design\DNA_Design.csproj", "{68E1EAC9-1A6D-45F0-A931-D340715743B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "front-end", "front-end", "{4A152F20-6EF2-4AB4-8132-7B3F1008ABFB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "back-end", "back-end", "{A68E007B-9D27-4717-A885-1F72F7D05BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68E1EAC9-1A6D-45F0-A931-D340715743B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E1EAC9-1A6D-45F0-A931-D340715743B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E1EAC9-1A6D-45F0-A931-D340715743B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E1EAC9-1A6D-45F0-A931-D340715743B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{68E1EAC9-1A6D-45F0-A931-D340715743B1} = {4A152F20-6EF2-4AB4-8132-7B3F1008ABFB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A427DFF1-566E-4DF6-AB94-B64F7FBA596E}
+	EndGlobalSection
+EndGlobal

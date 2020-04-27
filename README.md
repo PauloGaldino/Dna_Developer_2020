@@ -1,6 +1,7 @@
 # Dna_Developer_2020
-Projeto Front-end para aperfeiçoamento do css e do javascript.
+Projeto front-end para aperfeiçoamento do css e do javascript.
 IDE utilizado é o Visual Studio 2019. 
 A versão do Asp .Netcore 3.1.
 Arquitetura utilizada é o DDD 'Domain Driven Design'.
-O frint-end será implementado ao longo do desenvolvimento.
+No back-end será utilizado o domínio rico em sua estrutura.
+O front-end será implementado ao longo do desenvolvimento.
